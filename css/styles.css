@@ -1,0 +1,52 @@
+body {
+  background-color: #212529;
+  color: #c9c9c9;
+  font-family: "Raleway", sans-serif;
+}
+
+.headerText {
+  font-family: "Cabin", sans-serif;
+}
+
+/*Navbar Styles*/
+.navbar {
+  background-color: none;
+}
+
+.nav-link {
+  color: #c9c9c9 !important;
+}
+
+.navbar-brand {
+  color: #c9c9c9 !important;
+}
+
+.navbar-light {
+  color: #c9c9c9;
+}
+.navbar-brand {
+  letter-spacing: 0.15rem;
+}
+
+.nav-item {
+  margin: auto 1.5rem;
+}
+
+/*Opening Section Styles*/
+
+.welcomeSection {
+  background-color: #7fcec5;
+  background-image: linear-gradient(315deg, #7fcec5 0%, #14557b 74%);
+  height: 60vh;
+}
+
+.welcomeContainer {
+  padding: 2rem;
+}
+
+.headshotImage {
+  height: 12rem;
+  width: 12rem;
+  border: 0.2rem dashed;
+  border-radius: 50%;
+}
