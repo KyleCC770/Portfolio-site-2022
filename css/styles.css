@@ -50,3 +50,21 @@ body {
   border: 0.2rem dashed;
   border-radius: 50%;
 }
+
+/*scroll*/
+.scroll:link {
+  text-decoration: none;
+  color: #c9c9c9;
+}
+
+/*Technologies*/
+i {
+  font-size: 3rem;
+}
+i:hover {
+  color: #6fbcb9 !important;
+
+  transition: color 2s ease-in-out 100ms;
+  transition: all 1s ease-in-out 100ms;
+  font-size: 3.5rem;
+}
